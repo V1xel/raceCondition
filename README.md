@@ -1,7 +1,2 @@
-# Awesome Project Build with TypeORM
-
-Steps to run this project:
-
-1. Run `npm i` command
-2. Setup database settings inside `ormconfig.json` file
-3. Run `npm start` command
+Making experiments with postgres.
+Testing the different ways to deal with race condition.
